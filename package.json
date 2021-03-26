@@ -18,5 +18,6 @@
   "homepage": "https://github.com/sumlerd702/adapter-change_management#readme",
   "dependencies": {
     "request": "^2.88.2"
-  }
+  },
+  "devDependencies": {}
 }
